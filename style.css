@@ -1,0 +1,128 @@
+body{
+    background:linear-gradient(to right,#f8f9fa,#e3f2fd);
+    font-family: 'Segoe Ui', sans-serif;
+}
+
+
+
+
+
+
+
+
+
+.landing-container{
+max-width: 400px;
+margin: auto;
+text-align: center;
+}
+
+.hero-section{
+    background-image: url(istockphoto-1321710096-612x612.jpg);
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    height: 100vh;
+    align-items: center;
+    justify-content: center;
+    color:rgb(8, 8, 8);
+    text-align: center;
+    position: relative;
+    font-weight: bolder;
+}
+
+
+.logo-area{
+    
+display: flex;
+flex-direction: column;
+align-items: center;
+margin-bottom: 20px;
+}
+
+.logo{
+    width: 60px;
+    margin-bottom: 10px;
+}
+
+.illustration{
+    max-height: 350px;
+
+}
+
+.button-group{
+    padding: 12px 20px;
+    border: none;
+    border-radius: 25px;
+    font-weight: bold;
+    cursor: pointer;
+    text-decoration: none;
+    color: aquamarine;
+    text-align: center;
+    margin-top: 50px;
+    padding-top: 50px;
+}
+
+.button-group   {
+
+    border: none;
+    color: #b52020;
+    background-color: transparent;
+}
+
+.hero-section h1{
+padding-top: none;
+    padding-bottom: 20px;
+    font-weight: 700;
+    color: rgb(224, 84, 20);
+
+    font-family: 'Poppins',sans-serif;
+    
+}
+
+
+    .hero-content p{
+background:linear-grident(to right,#ff6f00,#ffa726);
+        font-weight: 700;
+        font-family: 'Poppins',sans-serif;
+        letter-spacing: 0.3px;
+        line-height: 1.6;
+        font-size: 9.5px;
+        text-align: center;
+        
+
+text-decoration:none;
+        color: #c14615;
+        margin-bottom: 50px;
+    }
+
+    .hero-content h2{
+        color: #131212;
+        font-size: 20px;
+        font-weight: bold;
+        padding-top: 10px;
+    padding-bottom: 50px;
+}
+
+    
+.hero-content a{
+    margin-top: 50px;
+    margin-bottom: -50px;
+}
+
+.login-container{   
+     margin-top: 80px;
+    padding-top: 50px;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+}
+
+.login-element{
+    margin-bottom: 5px;
+    text-align: center;
+    
+        background-color: rgb(202, 202, 202);
+
+
+}
