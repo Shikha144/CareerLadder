@@ -1,6 +1,6 @@
 # Career Ladder
 
-Career Ladder is a job portal designed specifically for Tier-2 college students and freshers. It aims to bridge the gap between talent and opportunity by offering a platform where students can find internships and early-career jobs.
+A platform designed to help students and freshers — especially those from Tier-2/3 colleges or with career breaks — find internships, entry-level jobs, and career guidance.
 
 ## Features
 - Simple job search based on skillset and location
