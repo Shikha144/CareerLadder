@@ -17,3 +17,6 @@ A platform designed to help students and freshers — especially those from Tier
 - Add authentication and user roles
 - Admin job posting dashboard
 - Resume parser for better job matching
+
+  ## Live Demo  
+You can view the live prototype here: [Career-Ladder Prototype](https://shikha144.github.io/CareerLadder/)
